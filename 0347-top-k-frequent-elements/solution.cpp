@@ -6,28 +6,16 @@ public:
         for(int i=0;i<n;i++) {
             m[nums[i]]++;
         }
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;vector<int> ans(k);
-        int i=0;
+        // {1:3, 2:2 ,3:1}
+        vector<pair<int,int>> v;
         for(auto &ele:m) {
-            // {1:3, 2:2, 3:1}
-            if(i<k) {
-                pq.push({ele.second,ele.first});
-            }
-            else{
-                int mn_freq=pq.top().first;
-                if(ele.second>mn_freq) {
-                    pq.pop();
-                    pq.push({ele.second,ele.first});
-                }
-            }
-            i++;
+            v.push_back({ele.second,ele.first});
         }
-        i=0;
-        while(!pq.empty()) {
-            ans[i++]=pq.top().second;
-            pq.pop();
-            // cout<<pq.top().first<<" "<<pq.top().second<<'\n';
-            // pq.pop();
+        sort(v.begin(),v.end(),greater<>());
+        // {3:1,2:2,1:3}
+        vector<int> ans;
+        for(int i=0;i<k;i++) {
+            ans.push_back(v[i].second);
         }
         return ans;
     }

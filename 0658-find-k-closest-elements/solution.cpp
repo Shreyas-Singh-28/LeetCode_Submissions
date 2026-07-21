@@ -1,23 +1,12 @@
-// using pair<int,int> pi;
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         int n=static_cast<int>(arr.size());
-        vector<pair<int,int>> v;
-        priority_queue<pair<int,int>> pq;
-        for(int i=0;i<k;i++) {
-            pq.push({abs(arr[i]-x),arr[i]});
+        int l=0,r=n-1;
+        while(r-l+1>k) {
+            if(abs(arr[l]-x)<=abs(arr[r]-x)) r--;
+            else l++;
         }
-        for(int i=k;i<n;i++) {
-            pq.push({abs(arr[i]-x),arr[i]});
-            pq.pop();
-        }
-        vector<int> ans(k);
-        while(!pq.empty()) {
-            ans[--k]=pq.top().second;
-            pq.pop();
-        }
-        sort(ans.begin(),ans.end());
-        return ans;
+        return vector(arr.begin()+l,arr.begin()+l+k);
     }
 };

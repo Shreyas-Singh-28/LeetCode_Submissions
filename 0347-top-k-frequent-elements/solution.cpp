@@ -6,16 +6,15 @@ public:
         for(int i=0;i<n;i++) {
             m[nums[i]]++;
         }
-        // {1:3, 2:2 ,3:1}
-        vector<pair<int,int>> v;
-        for(auto &ele:m) {
-            v.push_back({ele.second,ele.first});
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        for(auto &[key,freq]:m) {
+            pq.push({freq,key});
+            if((int)pq.size()>k) pq.pop();
         }
-        sort(v.begin(),v.end(),greater<>());
-        // {3:1,2:2,1:3}
-        vector<int> ans;
+        vector<int> ans(k);
         for(int i=0;i<k;i++) {
-            ans.push_back(v[i].second);
+            ans[i]=pq.top().second;
+            pq.pop();
         }
         return ans;
     }

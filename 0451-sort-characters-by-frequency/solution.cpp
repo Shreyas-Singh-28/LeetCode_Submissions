@@ -1,16 +1,21 @@
+using pic = pair<int,char>;
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char,int> freq;
-        for(auto &ch:s)freq[ch]++;
-        vector<pair<int,char>> v;
-        for(auto &[ch,frequency]:freq) v.push_back({frequency,ch});
-        sort(v.begin(),v.end(),greater<>());
+        unordered_map<char,int> mp;
+        for(auto &ch:s) mp[ch]++;
+        priority_queue<pic> pq;
+        for(auto &[key,value]:mp) {
+            pq.push({value,key});
+        }
         string ans="";
-        for(auto &[frequency,ch]:v) {
-            while(frequency--) {
+        while(!pq.empty()) {
+            int freq=pq.top().first;
+            char ch=pq.top().second;
+            while(freq--) {
                 ans+=ch;
             }
+            pq.pop();
         }
         return ans;
     }

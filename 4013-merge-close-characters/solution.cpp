@@ -2,17 +2,23 @@ class Solution {
 public:
     string mergeCharacters(string s, int k) {
         int n=s.length();
+        vector<char> last_k;
+        vector<int> seen(26,0);
         string ans="";
-        for(int i=0;i<n;i++) {
-            int len=ans.length();
-            bool can_add=1;
-            for(int j=len-1;j>=max(0,len-k);j--) {
-                if(ans[j]==s[i]) {
-                    can_add=0;
-                    break;
-                }
+        int start=0;
+        for(char &ch:s) {
+            if(seen[ch-'a']>0) continue;
+            seen[ch-'a']++;
+            last_k.push_back(ch);
+
+            if((int)last_k.size()>k) {
+                char rem=last_k[start++];
+                ans+=rem;
+                seen[rem-'a']--;
             }
-            if(can_add) ans+=s[i];
+        }
+        for(int i=start;i<min(start+k,(int)last_k.size());i++) {
+            ans+=last_k[i];
         }
         return ans;
     }

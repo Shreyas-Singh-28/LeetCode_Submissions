@@ -1,13 +1,28 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        auto l_iter=lower_bound(nums.begin(),nums.end(),target);
-        auto u_iter=upper_bound(nums.begin(),nums.end(),target);
-        int l=-1,u=-1;
-        if(l_iter!=nums.end() && nums[l_iter-nums.begin()]==target) {
-            l=l_iter-nums.begin();
-            u=l+(u_iter-l_iter)-1;
+        int start=-1;
+        int end=-1;
+        int l=0,r=(int)nums.size()-1;
+        while(l<=r) {
+            int mid=l+(r-l)/2;
+            if(nums[mid]==target) {
+                start=mid;
+                r=mid-1;
+            }
+            else if(nums[mid]<target) l=mid+1;
+            else r=mid-1;
         }
-        return {l,u};
+        l=0,r=(int)nums.size()-1;
+        while(l<=r) {
+            int mid=l+(r-l)/2;
+            if(nums[mid]==target) {
+                end=mid;
+                l=mid+1;
+            }
+            else if(nums[mid]<target) l=mid+1;
+            else r=mid-1;
+        }
+        return {start,end};
     }
 };

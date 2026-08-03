@@ -1,11 +1,15 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int c{};
-        for(int &i:nums) {
-            // int dig{(nums[i]==0)?1:(int)log10(nums[i])+1};/
-            if(((i==0)?1:(int)log10(i)+1)%2==0) c++;
+        int res=0;
+        for(int &num:nums) {
+            int dig=0;
+            while(num>0) {
+                dig++;
+                num/=10;
+            }
+            if(dig%2==0) res++;
         }
-        return c;
+        return res;
     }
 };

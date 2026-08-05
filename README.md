@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0001-two-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0001-two-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

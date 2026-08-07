@@ -12,29 +12,27 @@ public:
                 max_freq=val;
             }
         }
-        // cout<<max_freq;
         for(auto &[key,val]:freq) {
             if(val==max_freq) {
                 v.push_back(key);
             }
         }
+        unordered_map<int,int> mp1;
+        unordered_map<int,int> mp2;
+        for(int i=0;i<n;i++) {
+            if(!mp1.count(nums[i])) {
+                mp1[nums[i]]=i;
+            }
+        }
+        for(int i=n-1;i>=0;i--) {
+            if(!mp2.count(nums[i])) {
+                mp2[nums[i]]=i;
+            }
+        }
         int len=(int)v.size();
         for(int i=0;i<len;i++) {
-            int val=v[i];
-            int ind1=-1,ind2=-1;
-            for(int j=0;j<n;j++) {
-                if(val==nums[j]) {
-                    ind1=j;
-                    break;
-                }
-            }
-            for(int j=n-1;j>=0;j--) {
-                if(val==nums[j]) {
-                    ind2=j;
-                    break;
-                }
-            }
-            ans=min(ans,ind2-ind1+1);
+            int len=mp2[v[i]]-mp1[v[i]];
+            ans=min(ans,len+1);
         }
         return ans;
     }

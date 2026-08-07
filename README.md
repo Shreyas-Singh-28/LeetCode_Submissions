@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0001-two-sum/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0697-degree-of-an-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0697-degree-of-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0001-two-sum/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0697-degree-of-an-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting

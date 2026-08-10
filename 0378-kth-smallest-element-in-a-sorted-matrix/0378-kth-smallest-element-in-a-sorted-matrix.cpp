@@ -3,13 +3,13 @@ public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
         int rows=static_cast<int>(matrix.size());
         int cols=static_cast<int>(matrix[0].size());
-        vector<int> temp(rows*cols);
+        priority_queue<int> pq;
         for(int i=0;i<rows;i++) {
             for(int j=0;j<cols;j++) {
-                temp[i*cols+j]=matrix[i][j];
+                pq.push(matrix[i][j]);
+                if((int)pq.size()>k) pq.pop();
             }
         }
-        sort(temp.begin(),temp.end());
-        return temp[k-1];
+        return pq.top();
     }
 };

@@ -49,15 +49,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
+| [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
+| [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
+| [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

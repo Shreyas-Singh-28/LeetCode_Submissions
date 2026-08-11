@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0027-remove-element/) | Easy |
+| [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0525-contiguous-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0525-contiguous-array/) | Medium |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0697-degree-of-an-array/) | Easy |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -78,4 +82,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

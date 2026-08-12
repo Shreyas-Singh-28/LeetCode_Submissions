@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0705-design-hashset/) | Easy |
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0705-design-hashset/) | Easy |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->

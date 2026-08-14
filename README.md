@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
 | [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +121,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0705-design-hashset/) | Easy |
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
 | [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +131,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->

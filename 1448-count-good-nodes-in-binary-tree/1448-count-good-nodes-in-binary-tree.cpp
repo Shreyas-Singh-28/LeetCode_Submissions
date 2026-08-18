@@ -11,13 +11,15 @@
  */
 class Solution {
 public:
-    int ans=1;
+    int ans=0;
     void dfs(TreeNode* root, int value) {
-        // if(root==nullptr) return;
-        if(root->left && root->left->val>=value) ans++;
-        if(root->right && root->right->val>=value) ans++;
-        if(root->left) dfs(root->left, max(value,root->left->val));
-        if(root->right) dfs(root->right, max(value,root->right->val));
+        if(root==nullptr) return;
+        if(root->val>=value) {
+            ans++;
+            value=root->val;
+        }
+        dfs(root->left, value);
+        dfs(root->right, value);
     }
     int goodNodes(TreeNode* root) {
         dfs(root, root->val);

@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0027-remove-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [4026-maximum-gap-between-stations](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
 | [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [4026-maximum-gap-between-stations](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
+| [4026-maximum-gap-between-stations](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

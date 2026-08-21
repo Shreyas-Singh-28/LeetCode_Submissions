@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0705-design-hashset/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -184,9 +187,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->

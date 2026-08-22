@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

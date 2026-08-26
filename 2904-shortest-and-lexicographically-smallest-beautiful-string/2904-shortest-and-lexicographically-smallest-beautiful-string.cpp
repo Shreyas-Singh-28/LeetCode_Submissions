@@ -3,7 +3,6 @@ public:
     string shortestBeautifulSubstring(string s, int k) {
         int n=s.length();
         string ans="";
-        vector<string> poss;
         int curr=0;
         int len=100;
         int l=-1;

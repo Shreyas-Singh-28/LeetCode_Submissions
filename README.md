@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
 | [1927-sum-game](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |

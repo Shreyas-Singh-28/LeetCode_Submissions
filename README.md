@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3174-clear-digits](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3174-clear-digits/) | Easy |
 | [4026-maximum-gap-between-stations](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [3174-clear-digits](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3174-clear-digits](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3174-clear-digits/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

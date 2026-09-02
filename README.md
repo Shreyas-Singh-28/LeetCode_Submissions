@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0705-design-hashset/) | Easy |
@@ -140,11 +141,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [3174-clear-digits](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |

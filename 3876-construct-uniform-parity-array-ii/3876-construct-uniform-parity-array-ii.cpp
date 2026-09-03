@@ -12,24 +12,7 @@ public:
             else odd_small=min(odd_small, nums1[i]);
         }
         bool odd=(smallest==even_small?0:1);
-        for(int i=0;i<n;i++) {
-            if(odd) {
-                if(nums1[i]%2==0) {
-                    continue;
-                }
-                else {
-                    continue;
-                }
-            }
-            else {
-                if(nums1[i]%2==1) {
-                    return false;
-                }
-                else {
-                    continue;
-                }
-            }
-        }
+        if(!odd && odd_small!=INT_MAX) return false;
         return true;
     }
 };

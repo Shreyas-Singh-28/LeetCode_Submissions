@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3174-clear-digits](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3174-clear-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [4026-maximum-gap-between-stations](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3174-clear-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

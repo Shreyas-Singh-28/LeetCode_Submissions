@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0767-reorganize-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1405-longest-happy-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1405-longest-happy-string/) | Medium |
 | [1927-sum-game](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
@@ -251,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreyas-Singh-28/LeetCode_Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
